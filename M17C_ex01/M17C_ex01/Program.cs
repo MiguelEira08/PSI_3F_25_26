@@ -11,6 +11,7 @@ namespace M17C_ex01
         static void Main(string[] args)
         {
             Console.WriteLine("Olá");
+            Console.WriteLine("O Magalhães é o prosão do git");
         }
     }
 }
